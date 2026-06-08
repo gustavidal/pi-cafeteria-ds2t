@@ -20,8 +20,8 @@
 │   ├── 📂 banco   
 │   ├── 📂 backend
 │   └── 📂 frontend  
-├── 📂 referências              
-│   └── 📄 bibliografia.bib
+└── 📂 referências              
+    └── 📄 bibliografia.bib
 ```
 
 ### Tecnologias Utilizadas
@@ -36,7 +36,7 @@ _Obs.: Outros frameworks, bibliotecas e ferramentas podem ser utilizadas, desde 
 ### Guia de Repositórios do Projeto
 | Disciplina | Uso | Link |
 | :-: | :-: | :-: |
-| Banco de Dados | Geral | |
+| Banco de Dados | Geral | [Clique aqui](https://github.com/EstephanoBorovicz/pi-cafeteria-ds2t-db) |
 | Backend | Tela Administrativa | |
 | Backend | Landing Page | |
 | Frontend | Tela Administrativa | |
