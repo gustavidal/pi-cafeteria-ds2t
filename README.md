@@ -12,10 +12,10 @@
 ### Organização
 ```
 ├── 📂 docs              
-│   └── 📄 Kick-Off (orientações do trabalho)
+│   └── 📄 kickoff (orientações do trabalho)
 │   ├── 📄 protótipos
 │   ├── 📄 TAP (formato WIKI)  
-│   └── 📄 LER.docx
+│   └── 📄 requisitos
 ├── 📂 code
 │   ├── 📂 banco   
 │   ├── 📂 backend
