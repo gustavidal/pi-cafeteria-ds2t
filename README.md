@@ -37,8 +37,8 @@ _Obs.: Outros frameworks, bibliotecas e ferramentas podem ser utilizadas, desde 
 | Disciplina | Uso | Link |
 | :-: | :-: | :-: |
 | Banco de Dados | Geral | [Clique aqui](https://github.com/EstephanoBorovicz/pi-cafeteria-ds2t-db) |
-| Backend | Tela Administrativa | |
-| Backend | Landing Page | |
+| Backend | Tela Administrativa | [Clique aqui](https://github.com/gustavidal/pi-cafeteria-ds2t-backend-admin) |
+| Backend | Landing Page | [Clique aqui](https://github.com/gustavidal/pi-cafeteria-ds2t-backend-landingpage) |
 | Frontend | Tela Administrativa | |
 | Frontend | Landing Page | |
 
