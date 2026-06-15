@@ -40,7 +40,7 @@ _Obs.: Outros frameworks, bibliotecas e ferramentas podem ser utilizadas, desde 
 | Backend | Tela Administrativa | [Clique aqui](https://github.com/gustavidal/pi-cafeteria-ds2t-backend-admin) |
 | Backend | Landing Page | [Clique aqui](https://github.com/gustavidal/pi-cafeteria-ds2t-backend-landingpage) |
 | Frontend | Tela Administrativa | |
-| Frontend | Landing Page | |
+| Frontend | Landing Page | [Clique aqui](https://github.com/Erymanthusn/pi-cafeteria-ds2t-frontend-usuario) |
 
 
 ### Integrantes do Grupo
